@@ -16,7 +16,7 @@
     "@emotion/styled": "^10.0.27",
     "dotenv": "^8.2.0",
     "emotion-theming": "^10.0.27",
-    "next": "^9.3.2",
+    "next": "^11.1.0",
     "node-fetch": "^2.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
